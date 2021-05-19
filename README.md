@@ -1,8 +1,6 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Niklas  👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=N1R0_CS)
-
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a an IT Student!
 
 - 🌱 I’m currently learning Python and Ethical Hacking
 - 👯 I’m looking to collaborate with other Programmers
