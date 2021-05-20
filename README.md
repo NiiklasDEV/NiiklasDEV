@@ -2,7 +2,7 @@
 
 ## I'm a an IT Student!
 
-- 🌱 I’m currently learning Python and Ethical Hacking
+- 🌱 I’m currently learning Python and Cybersecurity
 - 👯 I’m looking to collaborate with other Programmers
 - 🥅 2021 Goals: Learn more about Ethical Hacking
 - ⚡ Fun fact: I Love to go fishing
