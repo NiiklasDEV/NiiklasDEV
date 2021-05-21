@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niklas</h1>
-<h3 align="center">An IT Assistant Student.</h3>
+<h3 align="center">An IT Assistant Trainee.</h3>
 
 - 🔭 I’m currently working on **Discord BOT**
 
