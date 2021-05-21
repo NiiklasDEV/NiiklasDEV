@@ -16,32 +16,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niiklasdev&show_icons=true&theme=dark&locale=en" alt="niiklasdev" /></p>
 
 
-- [ ] I make software
-    - [ ] I can build web apps
-    - [ ] I can build front-end apps
-    - [ ] I can build with objects
-    - [ ] I can build with a framework
-    - [ ] I can pair program
-    - [ ] I can do TDD
-- [ ] I understand software
-    - [ ] I understand how a web server and client work
-    - [ ] I understand how a database works
-    - [ ] I understand how my language works
-    - [ ] I understand what makes software well-engineered
-- [ ] My teams succeed
-    - [ ] My teams build software together
-    - [ ] My teams resolve difficulties
-    - [ ] I help others become better
-    - [ ] I write code others can easily understand
-    - [ ] I write code that is easy to change
-- [ ] I learn quickly
-    - [ ] I pick up new languages and frameworks efficiently
-    - [ ] I use the expertise around me
-    - [ ] I keep track of my progress
-    - [ ] I improve the way I do things
-- [ ] I am resilient
-    - [ ] I can handle being a beginner
-    - [ ] I maintain control in stressful environments
-- [ ] I love my job
-    - [ ] I am passionate about software
-    - [ ] I set my own direction
+<h3 align="left">Goals for 2021:</h3>
+<br>
+- [ ] Cybersecurity
+    - [ ] Learn how Networks work
+    - [ ] Being Advanced in using Linux
+    - [ ] Finish Machines on THM & HTB
+    - [ ] Learn about Ethical Hacking with Python
+- [ ] Coding
+    - [ ] Finish a big Python Project
+    - [ ] Learn Webscraping with Python
+    - [ ] Finish a Python Book
+
