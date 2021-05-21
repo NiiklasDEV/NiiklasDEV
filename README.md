@@ -17,7 +17,7 @@
 
 
 <h3 align="left">Goals for 2021:</h3>
-<br>
+
 - [ ] Cybersecurity
     - [ ] Learn how Networks work
     - [ ] Being Advanced in using Linux
