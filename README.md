@@ -27,4 +27,6 @@
     - [ ] Finish a big Python Project
     - [ ] Learn Webscraping with Python
     - [ ] Finish a Python Book
+- [ ] Networking
+    - [ ] Pass the Network+ Exam
 
