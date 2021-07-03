@@ -25,6 +25,6 @@
     - [ ] Learn about Ethical Hacking with Python
 - [ ] Coding
     - [ ] Finish a big Python Project
-    - [ ] Learn Webscraping with Python
+    - [x] Learn Webscraping with Python
     - [ ] Finish a Python Book
 
