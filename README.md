@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Niklas</h1>
 <h3 align="center">An IT Assistant Trainee.</h3>
 
-- 🔭 I’m currently working on **Discord BOT**
+- 🔭 I’m currently working on **Garrys Mod Addons**
 
-- 🌱 I’m currently learning **Cybersecurity, Python**
+- 🌱 I’m currently learning **Cybersecurity, Python, Lua**
 
 - ⚡ Fun fact **I like to go Fishing**
 
@@ -20,11 +20,12 @@
 
 - [ ] Cybersecurity
     - [x] Learn how Networks work
-    - [ ] Being Advanced in using Linux
-    - [ ] Finish Machines on THM & HTB
-    - [ ] Learn about Ethical Hacking with Python
+    - [x] Being Advanced in using Linux
+    - [x] Finish Machines on THM & HTB
+    - [x] Learn about Ethical Hacking with Python
 - [ ] Coding
     - [ ] Finish a big Python Project
     - [x] Learn Webscraping with Python
     - [ ] Finish a Python Book
-
+    - [ ] Finish a Garrysmod Addon
+    - [ ] Create a Portfolio with multiple Garrys Mod Addons
