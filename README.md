@@ -14,7 +14,7 @@
 
 <h3 align="left">Goals for 2021:</h3>
 
-- [ ] Cybersecurity
+- [x] Cybersecurity
     - [x] Learn how Networks work
     - [x] Being Advanced in using Linux
     - [x] Finish Machines on THM & HTB
