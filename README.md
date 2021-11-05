@@ -22,5 +22,3 @@
 - [ ] Coding
     - [ ] Finish a big Python Project
     - [x] Learn Webscraping with Python
-    - [ ] Finish a Garrysmod Addon
-    - [ ] Create a Portfolio with multiple Garrys Mod Addons
