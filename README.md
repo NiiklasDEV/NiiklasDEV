@@ -7,8 +7,8 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="mailto:n.brockner@gmx.de" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmx" width="80" height="40"/>
-<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="arduino" width="80" height="40"/>
+<p align="left"> <a href="mailto:n.brockner@gmx.de" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmx" width="100" height="25"/>
+<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="arduino" width="100" height="25"/>
 <p align="left">
 </p>
   
