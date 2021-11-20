@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Niklas Brockner</h1>
 <h3 align="center">An IT-Assistant Student from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niiklasdev&label=Profile%20views&color=0e75b6&style=flat" alt="niiklasdev" /> </p>
+- 🔭 I’m currently working on a **Air Pollution Monitoring System**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Google Cloud**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
