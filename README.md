@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Niklas Brockner</h1>
 <h3 align="center">An IT-Assistant Student from Germany</h3>
 
-- 🔭 I’m currently working on a **Air Pollution Monitoring System**
+- 🔭 I’m currently working on a **Map for Videogame (Source 2 based)**
 
-- 🌱 I’m currently learning **Google Cloud**
+- 🌱 I’m currently learning **C# and Map Creation with Hammer 2**
 
 
 <h3 align="left">Connect with me:</h3>
