@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niklas Brockner</h1>
 <h3 align="center">An IT-Assistant Student from Germany</h3>
 
-- 🔭 I’m currently working on a **Map for Videogame (Source 2 based)**
-
-- 🌱 I’m currently learning **C# and Map Creation with Hammer 2**
-
 
 <h3 align="left">Connect with me:</h3>
 <a> <a href="mailto:n.brockner@gmx.de" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="linux" width="100" height="25"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" width="100" height="25"/> </a> </p>  
