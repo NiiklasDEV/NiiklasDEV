@@ -7,7 +7,4 @@
 
 - 👨‍💻 My Website (Work in progress) [https://niklasb.tech](https://niklasb.tech)
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niiklasdev&show_icons=true&locale=en&layout=compact" alt="niiklasdev" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niiklasdev&" alt="niiklasdev" /></p>
