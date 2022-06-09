@@ -7,4 +7,7 @@
 
 - 👨‍💻 My Website (Work in progress) [https://niklasb.tech](https://niklasb.tech)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niiklasdev&" alt="niiklasdev" /></p>
+Goals for 2022:
+[] Learn more about Vulnerability management
+[] Gather Experience with SIEM
+[] Read a book (Cybersecurity)
