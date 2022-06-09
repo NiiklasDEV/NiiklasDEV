@@ -8,6 +8,6 @@
 - 👨‍💻 My Website (Work in progress) [https://niklasb.tech](https://niklasb.tech)
 
 Goals for 2022:
-- [] Learn more about Vulnerability management
-- [] Gather Experience with SIEM
-- [] Read a book (Cybersecurity)
+- [ ] Learn more about Vulnerability management
+- [ ] Gather Experience with SIEM
+- [ ] Read a book (Cybersecurity)
