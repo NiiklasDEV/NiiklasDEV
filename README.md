@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Niklas] 👋</h1>
+<h1 align="center">Hey, I'm Niklas 👋</h1>
 <h3 align="center">System Engineer • CI/CD Firefighter 🚒 • Germany 🇩🇪</h3>
 
 <p align="center">
